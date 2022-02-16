@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "9ce9f76b3223cdcc10bce0359b68237524a21579",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 10.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "10-hole",
+    "load_name": "D0103",
+    "measured_response": "fxrETgAAAAAAjEM7AAD6RLaZAEAAAPpEnpWAQAAA+kQAs8BAAAD6RH5sAEEAAPpERn4gQQAA+kRukEBBAAD6RJaTYEEAAPpE1VKAQQAA+kQIU5BBAAD6RA9RoEEAAPpEIE+wQQAA+kQpXcBBAAD6RBpp0EEAAPpEWHngQQAA+kRAhfBBAAD6RMpFAEIAAPpEoEcIQgAA+kQKShBCAAD6RBtRGEIAAPpEVVAgQgAA+kRVTyhCAAD6RCRQMEIAAPpERFc4QgAA+kQOV0BCAAD6RDNdSEIAAPpE32NQQgAA+kTmblhCAAD6RL50YEIAAPpEa3doQgAA+kSsenBCAAD6RCN7eEIAAPpEYz+AQgAA+kRlQIRCAAD6RMpCiEIAAPpE7EOMQgAA+kSYRJBCAAD6RPpJlEIAAPpEZ06YQgAA+kQ3T5xCAAD6RGRRoEIAAPpEVFKkQgAA+kSsUqhCAAD6RFJSrEIAAPpE3VOwQgAA+kQCV7RCAAD6ROdduEIAAPpE0l68QgAA+kQ5YsBCAAD6RKFkxEIAAPpECmfIQgAA+kTIacxCAAD6RHVp0EIAAPpEEnLUQgAA+kRWc9hCAAD6RId03EIAAPpEgHbgQgAA+kQ=",
+    "pattern": "9and10hole_square.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 1,
+            "x": -7.62,
+            "y": 7.62,
+            "z": 12.0
+        },
+        {
+            "is_degas": false,
+            "position": 2,
+            "x": 0.0,
+            "y": 7.62,
+            "z": 12.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "fxrETgAAAAAAjEM7vhm5QbaZAEAAAAAAnpWAQAAAAAAAs8BAAAAAAH5sAEEAAAAARn4gQQAAAABukEBBqbDlQZaTYEGpsOVB1VKAQamw5UEIU5BBqbDlQQ9RoEGpsOVBIE+wQamw5UEpXcBBqbDlQRpp0EGpsOVBWHngQamw5UFAhfBBqbDlQcpFAEKpsOVBoEcIQqmw5UEKShBCqbDlQRtRGEKpsOVBVVAgQqmw5UFVTyhCqbDlQSRQMEKpsOVBRFc4Qqmw5UEOV0BCqbDlQTNdSEKpsOVB32NQQqmw5UHmblhCqbDlQb50YEKpsOVBa3doQqmw5UGsenBCqbDlQSN7eEKpsOVBYz+AQqmw5UFlQIRCqbDlQcpCiEKpsOVB7EOMQqmw5UGYRJBCqbDlQfpJlEKpsOVBZ06YQqmw5UE3T5xCqbDlQWRRoEKpsOVBVFKkQqmw5UGsUqhCqbDlQVJSrEKpsOVB3VOwQqmw5UECV7RCqbDlQedduEKpsOVB0l68Qqmw5UE5YsBCqbDlQaFkxEKpsOVBCmfIQqmw5UHIacxCqbDlQXVp0EKpsOVBEnLUQqmw5UFWc9hCqbDlQYd03EKpsOVBgHbgQqmw5UE=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "10-hole",
+    "videos": [],
+    "weight": 49.8
+}
