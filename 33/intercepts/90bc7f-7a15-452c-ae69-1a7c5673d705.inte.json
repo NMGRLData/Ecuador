@@ -83,7 +83,7 @@
         "value": 9.40008744373041
     },
     "Ar40": {
-        "error": 0.0385176129866041,
+        "error": 0.06709515436083342,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -92,7 +92,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": true,
         "n": 340,
@@ -101,6 +101,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 568.4831749665392
+        "value": 568.8042858618259
     }
 }
