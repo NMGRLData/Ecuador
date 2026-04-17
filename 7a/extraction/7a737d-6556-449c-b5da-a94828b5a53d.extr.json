@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "5.0",
+    "cleanup_duration": 20.0,
+    "commit": "ab7c3b4d2ffd4526ea64ebd4432ce1f805327a2c",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 15.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "18hole",
+    "load_name": "D0257",
+    "pattern": "18Trough_small.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": null,
+            "x": 3.705,
+            "y": -3.779,
+            "z": 21.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2026-04-17T10:43:41.264833",
+    "tray": "18hole",
+    "videos": [],
+    "weight": 13.21
+}
